@@ -1,1 +1,1 @@
-Tudeng nr 1 loob faili conflict.txt ning kirjutab sinna sisusse paar rida teksti omal valikul. 
+Tudeng nr 1 loob vastu oma tahet faili conflict.txt ning kirjutab sinna sisusse mitte midagi. PALUN TÖÖTA
